@@ -144,35 +144,84 @@ class AkhileshMohanasundaram:
 
 ## 🏆 Achievements & Recognition
 
+<!-- Achievement Stats Bar -->
 <div align="center">
 
-| 🏅 | Achievement | Date |
-|---|---|---|
-| 🥇 | **Winner — LaunchHacks IV** · *PCOSense AI Health Companion* | Jun 2025 |
-| 🌐 | **Top 100 Global Finalist — IBM TechXchange Hackathon 2024** · *Fully sponsored Las Vegas conference pass* | Oct 2024 |
-| 📡 | **NPTEL Elite + Gold Certificate — IoT** · *Top 2% nationally, Course Topper, 92% score* | Nov 2024 |
-| 🤖 | **Agentic AI Engineer — Intel IoT Club**, Amrita Vishwa Vidyapeetham | May 2024 |
-| 🎓 | **Tech Team Lead — IETE Students' Chapter**, Amrita Vishwa Vidyapeetham | Jul 2025 |
+![Hackathons Won](https://img.shields.io/badge/🥇%20Hackathons%20Won-1-FFD700?style=for-the-badge&labelColor=1a1a2e)
+![Global Rankings](https://img.shields.io/badge/🌐%20Global%20Top%20100-IBM%20TechXchange-A855F7?style=for-the-badge&labelColor=1a1a2e)
+![NPTEL Rank](https://img.shields.io/badge/📡%20NPTEL%20Top-2%25%20Nationally-6EE7F7?style=for-the-badge&labelColor=1a1a2e)
+![Leadership Roles](https://img.shields.io/badge/🎓%20Leadership%20Roles-2-F472B6?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- Timeline Layout -->
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ACHIEVEMENT TIMELINE                              [ 2024 → 2025 ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+  May 2024  ◉  🤖  Agentic AI Engineer — Intel IoT Club
+            │       Amrita Vishwa Vidyapeetham
+            │       Engineered & led multiple AIoT projects + hackathons
+            │
+  Oct 2024  ◉  🌐  Top 100 Global — IBM TechXchange Hackathon 2024
+            │       Ranked among the best worldwide out of thousands
+            │       Earned a fully sponsored pass to Las Vegas conference
+            │
+  Nov 2024  ◉  📡  NPTEL Elite + Gold — Introduction to IoT
+            │       Course Topper · 92% score · Top 2% nationally
+            │       Funded by MoE, Government of India
+            │
+  Jun 2025  ◉  🥇  WINNER — LaunchHacks IV
+            │       Built PCOSense: AI Health Companion for PCOS
+            │       KG-based food analysis · LLM recommendations
+            │
+  Jul 2025  ◉  🎓  Tech Team Lead — IETE Students' Chapter
+                    Amrita Vishwa Vidyapeetham
+                    Led workshops on Generative AI & Embedded Robotics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<!-- Spotlight Cards -->
 <div align="center">
+<table>
+<tr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh-Mohanasundaram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6EE7F7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh-Mohanasundaram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff"/>
+<td align="center" width="33%">
 
-<br/>
+### 🥇 LaunchHacks IV
+**Winner**
+> Built *PCOSense* — an AI health companion with cycle tracking, knowledge graph food analysis & personalized LLM care
+>
+> `Jun 2025`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh-Mohanasundaram&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=6EE7F7&fire=F472B6&currStreakLabel=A855F7" alt="GitHub Streak" />
+</td>
 
-<br/>
+<td align="center" width="33%">
 
-[![Akhilesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh-Mohanasundaram&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=6EE7F7&point=F472B6)](https://github.com/Akhilesh-Mohanasundaram)
+### 🌐 IBM TechXchange
+**Global Top 100**
+> Ranked among the world's best in IBM's Watsonx Hackathon. Earned a **fully sponsored** trip to the conference in Las Vegas
+>
+> `Oct 2024`
 
+</td>
+
+<td align="center" width="33%">
+
+### 📡 NPTEL Elite + Gold
+**Course Topper · Top 2%**
+> Scored **92%** in Introduction to IoT, placing in the top 2% of all national performers across India
+>
+> `Nov 2024`
+
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
