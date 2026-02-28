@@ -162,83 +162,144 @@ class AkhileshMohanasundaram:
 
 ## Achievements & Recognition
 
-<!-- Achievement Stats Bar -->
 <div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 
-![Hackathons Won](https://img.shields.io/badge/🥇%20Hackathons%20Won-1-FFD700?style=for-the-badge&labelColor=1a1a2e)
-![Global Rankings](https://img.shields.io/badge/🌐%20Global%20Top%20100-IBM%20TechXchange-A855F7?style=for-the-badge&labelColor=1a1a2e)
-![NPTEL Rank](https://img.shields.io/badge/📡%20NPTEL%20Top-2%25%20Nationally-6EE7F7?style=for-the-badge&labelColor=1a1a2e)
-![Leadership Roles](https://img.shields.io/badge/🎓%20Leadership%20Roles-2-F472B6?style=for-the-badge&labelColor=1a1a2e)
-
-</div>
-
-<br/>
-
-<!-- Timeline Layout -->
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ACHIEVEMENT TIMELINE                              [ 2024 → 2025 ]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  May 2024  ◉  🤖  Agentic AI Engineer — Intel IoT Club
-            │       Amrita Vishwa Vidyapeetham
-            │       Engineered & led multiple AIoT projects + hackathons
-            │
-  Oct 2024  ◉  🌐  Top 100 Global — IBM TechXchange Hackathon 2024
-            │       Ranked among the best worldwide out of thousands
-            │       Earned a fully sponsored pass to Las Vegas conference
-            │
-  Nov 2024  ◉  📡  NPTEL Elite + Gold — Introduction to IoT
-            │       Course Topper · 92% score · Top 2% nationally
-            │       Funded by MoE, Government of India
-            │
-  Jun 2025  ◉  🥇  WINNER — LaunchHacks IV
-            │       Built PCOSense: AI Health Companion for PCOS
-            │       KG-based food analysis · LLM recommendations
-            │
-  Jul 2025  ◉  🎓  Tech Team Lead — IETE Students' Chapter
-                    Amrita Vishwa Vidyapeetham
-                    Led workshops on Generative AI & Embedded Robotics
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<!-- Spotlight Cards -->
-<div align="center">
-<table>
+<!-- Terminal title bar -->
 <tr>
-
-<td align="center" width="33%">
-
-### LaunchHacks IV
-**Winner**
-> Built *PCOSense* — an AI health companion with cycle tracking, knowledge graph food analysis & personalized LLM care
->
-> `Jun 2025`
-
-</td>
-
-<td align="center" width="33%">
-
-### IBM TechXchange
-**Global Top 100**
-> Ranked among the world's best in IBM's Watsonx Hackathon. Earned a **fully sponsored** trip to the conference in Las Vegas
->
-> `Oct 2024`
-
-</td>
-
-<td align="center" width="33%">
-
-### NPTEL Elite + Gold
-**Course Topper · Top 2%**
-> Scored **92%** in Introduction to IoT, placing in the top 2% of all national performers across India
->
-> `Nov 2024`
-
-</td>
-
+  <td bgcolor="#0d0d1a" align="left" style="padding: 10px 16px;">
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/%E2%97%8F-%23ff5f57?style=flat-square&labelColor=%23ff5f57" />
+    <img src="https://img.shields.io/badge/%E2%97%8F-%23febc2e?style=flat-square&labelColor=%23febc2e" />
+    <img src="https://img.shields.io/badge/%E2%97%8F-%2328c840?style=flat-square&labelColor=%2328c840" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/ACHIEVEMENT__REGISTRY.log-5%20RECORDS-6EE7F7?style=flat-square&labelColor=0d0d1a" />
+  </td>
 </tr>
+
+<!-- ══ RECORD 001 ══ -->
+<tr>
+  <td bgcolor="#13132b" style="padding: 0;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+      <td width="4" bgcolor="#F472B6">&nbsp;</td>
+      <td bgcolor="#13132b" style="padding: 12px 16px;">
+        <img src="https://img.shields.io/badge/%23001-MAY%202024-F472B6?style=flat-square&labelColor=1a1a2e" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/LEADERSHIP%20ROLE-STATUS%3A%20ACTIVE-F472B6?style=flat-square&labelColor=3b1f6e" />
+        <br/><br/>
+        <b>Agentic AI Engineer &nbsp;·&nbsp; Intel IoT Club, Amrita Vishwa Vidyapeetham</b><br/>
+        <sub>Engineered and led multiple AIoT projects end-to-end. Organised workshops and hackathons focused on applied AI and embedded systems, driving practical innovation within the club.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AIoT-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embedded%20Systems-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Workshops-1a1a2e?style=flat-square" />
+      </td>
+    </tr></table>
+  </td>
+</tr>
+<tr><td bgcolor="#0d0d1a" height="2"></td></tr>
+
+<!-- ══ RECORD 002 ══ -->
+<tr>
+  <td bgcolor="#13132b" style="padding: 0;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+      <td width="4" bgcolor="#A855F7">&nbsp;</td>
+      <td bgcolor="#13132b" style="padding: 12px 16px;">
+        <img src="https://img.shields.io/badge/%23002-OCT%202024-A855F7?style=flat-square&labelColor=1a1a2e" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/GLOBAL%20COMPETITION-RANK%3A%20TOP%20100-A855F7?style=flat-square&labelColor=3b1f6e" />
+        <br/><br/>
+        <b>Top 100 Global Finalist &nbsp;·&nbsp; IBM TechXchange Hackathon 2024</b><br/>
+        <sub>Ranked among the top 100 worldwide in IBM's Watsonx challenge across thousands of global submissions. Awarded a fully sponsored pass to IBM TechXchange Conference in Las Vegas.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/IBM%20Watsonx-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sponsored%20Conference-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Las%20Vegas-1a1a2e?style=flat-square" />
+      </td>
+    </tr></table>
+  </td>
+</tr>
+<tr><td bgcolor="#0d0d1a" height="2"></td></tr>
+
+<!-- ══ RECORD 003 ══ -->
+<tr>
+  <td bgcolor="#13132b" style="padding: 0;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+      <td width="4" bgcolor="#6EE7F7">&nbsp;</td>
+      <td bgcolor="#13132b" style="padding: 12px 16px;">
+        <img src="https://img.shields.io/badge/%23003-NOV%202024-6EE7F7?style=flat-square&labelColor=1a1a2e" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/CERTIFICATION-ELITE%20%2B%20GOLD-6EE7F7?style=flat-square&labelColor=3b1f6e" />
+        <br/><br/>
+        <b>NPTEL Elite + Gold &nbsp;·&nbsp; Introduction to Internet of Things</b><br/>
+        <sub>Secured Course Topper rank with a 92% final score, placing in the top 2% of all national performers across India. Funded by MoE, Government of India.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Score%3A%2092%25-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Top%202%25%20Nationally-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Course%20Topper-1a1a2e?style=flat-square" />
+      </td>
+    </tr></table>
+  </td>
+</tr>
+<tr><td bgcolor="#0d0d1a" height="2"></td></tr>
+
+<!-- ══ RECORD 004 — WINNER ══ -->
+<tr>
+  <td bgcolor="#1c1130" style="padding: 0;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+      <td width="4" bgcolor="#F472B6">&nbsp;</td>
+      <td bgcolor="#1c1130" style="padding: 12px 16px;">
+        <img src="https://img.shields.io/badge/%23004-JUN%202025-F472B6?style=flat-square&labelColor=3b0764" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/HACKATHON-1ST%20PLACE%20WINNER-F472B6?style=flat-square&labelColor=3b0764" />
+        <br/><br/>
+        <b>Winner &nbsp;·&nbsp; LaunchHacks IV</b><br/>
+        <sub>Built <i>PCOSense</i> — an AI health companion for PCOS management featuring knowledge graph–based food analysis, cycle tracking, yoga pose matching, and personalised LLM-driven care recommendations.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/LLM%20Architecture-3b0764?style=flat-square" />
+        <img src="https://img.shields.io/badge/Knowledge%20Graphs-3b0764?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flutter-3b0764?style=flat-square" />
+        <img src="https://img.shields.io/badge/Healthcare%20AI-3b0764?style=flat-square" />
+      </td>
+    </tr></table>
+  </td>
+</tr>
+<tr><td bgcolor="#0d0d1a" height="2"></td></tr>
+
+<!-- ══ RECORD 005 ══ -->
+<tr>
+  <td bgcolor="#13132b" style="padding: 0;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+      <td width="4" bgcolor="#A855F7">&nbsp;</td>
+      <td bgcolor="#13132b" style="padding: 12px 16px;">
+        <img src="https://img.shields.io/badge/%23005-JUL%202025-A855F7?style=flat-square&labelColor=1a1a2e" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/LEADERSHIP%20ROLE-STATUS%3A%20ACTIVE-A855F7?style=flat-square&labelColor=3b1f6e" />
+        <br/><br/>
+        <b>Tech Team Lead &nbsp;·&nbsp; IETE Students' Chapter, Amrita Vishwa Vidyapeetham</b><br/>
+        <sub>Spearheaded workshops and technical events on emerging technologies including Generative AI and Embedded Robotics, driving structured hands-on learning across the department.</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Generative%20AI-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embedded%20Robotics-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Event%20Lead-1a1a2e?style=flat-square" />
+      </td>
+    </tr></table>
+  </td>
+</tr>
+
+<!-- Terminal footer -->
+<tr>
+  <td bgcolor="#0d0d1a" align="center" style="padding: 8px 16px;">
+    <img src="https://img.shields.io/badge/HACKATHONS%20WON-1-A855F7?style=flat-square&labelColor=1a1a2e" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/GLOBAL%20TOP-100-6EE7F7?style=flat-square&labelColor=1a1a2e" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/NPTEL%20PERCENTILE-TOP%202%25-F472B6?style=flat-square&labelColor=1a1a2e" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LEADERSHIP%20ROLES-2-A855F7?style=flat-square&labelColor=1a1a2e" />
+  </td>
+</tr>
+
 </table>
 </div>
 
