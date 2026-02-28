@@ -1,50 +1,211 @@
-# 👋 Hi, I’m Akhilesh Mohanasundaram
+<div align="center">
 
-## 🚀 About Me
-I’m a passionate Computer Science student specializing in Artificial Intelligence at **Amrita School of Engineering, Coimbatore**. I have a strong foundation in **object-oriented programming, data structures & algorithms, cloud computing, and machine learning**. 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A855F7,100:F472B6&height=200&section=header&text=Akhilesh%20Mohanasundaram&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
 
-## 🎯 Interests
-- 🤖 **AI & Machine Learning**
-- 🌐 **Full-Stack Development**
-- ☁️ **Cloud Computing**
-- 💻 **Software Development**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+LLM+Architect+%F0%9F%A7%A0;IoT+%2B+ML+%3D+AIoT+Engineer+%F0%9F%94%8C;Full-Stack+Developer+%F0%9F%9A%80;CGPA%3A+9.32+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--mohanasundaram.vercel.app-6EE7F7?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilesh-mohanasundaram.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh--Mohanasundaram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akhilesh-Mohanasundaram)
+[![Email](https://img.shields.io/badge/Email-akhileshmohan2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshmohan2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Mohanasundaram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh-Mohanasundaram)
+
+<br/>
+
+<!-- Profile Views & GitHub Stats -->
+![Profile Views](https://komarev.com/ghpvc/?username=Akhilesh-Mohanasundaram&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Akhilesh-Mohanasundaram?style=for-the-badge&color=6EE7F7&labelColor=1a1a2e&label=FOLLOWERS)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class AkhileshMohanasundaram:
+    def __init__(self):
+        self.name       = "Akhilesh Mohanasundaram"
+        self.location   = "Coimbatore, India 🇮🇳"
+        self.education  = "B.Tech CSE (AI) @ Amrita Vishwa Vidyapeetham | CGPA: 9.32/10"
+        self.role       = "AI Intern @ Gadgeon Systems Inc."
+        self.interests  = ["LLM Architectures", "AIoT Systems", "Knowledge Graphs", "Full-Stack AI Apps"]
+        self.currently  = "Engineering production-grade AI workflows & LLM pipelines"
+        self.ask_me_about = ["RAG Systems", "Computer Vision", "EEG Signal Processing", "IoT+ML"]
+
+    def life_philosophy(self):
+        return "Translate complex problems into deployable, real-world AI solutions. 🚀"
+```
+
+---
 
 ## 💼 Experience
-### **UI/UX Design Intern** - LearningX *(Dec 2024 – Feb 2025 | Remote)*
-- Designed the user interface for **Club Chat**, an innovative club management mobile application.
-- Gained hands-on experience in front-end development and UI/UX principles.
 
-### **Data Science & Analytics Intern** - IIT Bhubaneswar *(Sep 2023 – Oct 2023 | Remote)*
-- Completed both minor and major projects, applying data science concepts.
-- Gained expertise in **data preprocessing, exploratory data analysis, and visualization techniques**.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 🎓 Education
-- **B.Tech in Computer Science & Engineering (Artificial Intelligence)** - Amrita School of Engineering *(2023 – Expected 2027)*
-- **Higher Secondary (HSC - AISSCE)** - CS Academy, Coimbatore *(2022 – 2023)*
-- **Secondary School (SSLC - AISSE)** - CS Academy, Coimbatore *(2021 – 2022)*
+### 🤖 AI Intern — Gadgeon Systems Inc.
+`Jan 2026 – Present` · Remote
+- Engineering feasible LLM architectures for production AI workflows
+- Bridging domain requirements to deployable AI systems
 
-## 🛠️ Skills
-- ✅ Problem-Solving & Object-Oriented Development  
-- ✅ Data Structures & Algorithms  
-- ✅ Cloud Computing  
-- ✅ Operating Systems  
-- ✅ Internet of Things  
+### 🔬 Summer Research Intern — IIT Kharagpur
+`May 2025 – July 2025` · Kharagpur, India
+- Built secure TCP + hybrid cryptography comm systems on Raspberry Pi
+- Designed a Wi-Fi–LoRa gateway for encrypted client-server exchange
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 ML Intern — GrowthLink
+`Feb 2025 – Mar 2025` · Remote
+- Built **SpamSense** — an AI-powered SMS spam detection system
+- Full-stack integration with advanced ML classification algorithms
+
+### 🎨 UI/UX Design Intern — LearningX
+`Dec 2024 – Feb 2025` · Remote
+- Designed **Club Chat** mobile app UI — intuitive, user-first design
+- Iterated on real-world design challenges and feedback cycles
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🍽️ **Smart Diet Assistant** | IoT food nutritional estimator using MobileNetV2 CNN + TFLite on Raspberry Pi. Segments food items, predicts weight & computes macronutrients. | `Python` `TFLite` `OpenCV` `Raspberry Pi` |
+| 🧠 **Epileptic Seizure Detector** | End-to-end ML/DL pipeline for focal vs. non-focal EEG classification. 90.1% accuracy with LSTM + SMOTE; wavelet & fractal features. | `Python` `Keras` `XGBoost` `SciPy` |
+| 🕸️ **GraphRAG Agent** | Autonomous RAG pipeline that scrapes the web, builds a Neo4j knowledge graph, and answers questions using sub-graph retrieval. | `Python` `Neo4j` `FastAPI` `LlamaIndex` `Gemini 2.0` `Docker` |
+| 💊 **PCOSense** *(Hackathon Winner)* | AI health companion with cycle tracking, KG-based food analysis, yoga pose matching, and personalized LLM recommendations. | `LLM` `Knowledge Graphs` `Flutter` |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / ML / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge&logo=llama&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Web & DevOps
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🏅 | Achievement | Date |
+|---|---|---|
+| 🥇 | **Winner — LaunchHacks IV** · *PCOSense AI Health Companion* | Jun 2025 |
+| 🌐 | **Top 100 Global Finalist — IBM TechXchange Hackathon 2024** · *Fully sponsored Las Vegas conference pass* | Oct 2024 |
+| 📡 | **NPTEL Elite + Gold Certificate — IoT** · *Top 2% nationally, Course Topper, 92% score* | Nov 2024 |
+| 🤖 | **Agentic AI Engineer — Intel IoT Club**, Amrita Vishwa Vidyapeetham | May 2024 |
+| 🎓 | **Tech Team Lead — IETE Students' Chapter**, Amrita Vishwa Vidyapeetham | Jul 2025 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh-Mohanasundaram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6EE7F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh-Mohanasundaram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh-Mohanasundaram&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=6EE7F7&fire=F472B6&currStreakLabel=A855F7" alt="GitHub Streak" />
+
+<br/>
+
+[![Akhilesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh-Mohanasundaram&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=6EE7F7&point=F472B6)](https://github.com/Akhilesh-Mohanasundaram)
+
+</div>
+
+---
 
 ## 📜 Certifications
-- **Data Science and Data Analytics** – Teachnook, IIT Bhubaneswar *(Sep 2023 – Oct 2023)*
-- **Power BI** – Teachnook, IIT Bhubaneswar *(Nov 2023)*
-- **Introduction to Internet of Things** – NPTEL *(Jul 2024 – Oct 2024)*
-- **Introduction to Quantum Computing: Quantum Algorithms and Qiskit** – NPTEL *(Jul 2024 – Aug 2024)*
 
-## 🏆 Achievements
-- 🎖️ **IBM TechXchange Hackathon 2024** - *Top-100 Finalist*
-- 🤖 **AIoT Engineer** – *Intel IoT Club*
-- 🔬 **R&D Member** – *Tensor Club*
-- 🏅 **NPTEL Elite + Gold Certificate** - *Introduction to Internet of Things*
+<div align="center">
 
-## 📫 How to Reach Me
-- 📧 Email: **akhileshmohan2005@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-mohan)
-- 🐙 [GitHub](https://github.com/Akhilesh-Mohanasundaram)
+| Certification | Provider | Period |
+|---|---|---|
+| ☁️ Google Cloud Computing Foundations | Google Cloud | Jul–Aug 2025 |
+| ⚛️ Introduction to Quantum Computing (Qiskit) | NPTEL (MoE, Govt. of India) | Jul–Aug 2024 |
+| ☁️ AWS Academy Cloud Foundations | AWS Academy | Nov 2023–Mar 2024 |
+| 📊 Data Science & Data Analytics | Teachnook | Sep–Oct 2023 |
 
-⚡ **Fun Fact:** I love playing basketball 🏀 and enjoy exploring new tech innovations!
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+> *"The best way to predict the future is to build it — with AI."*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6EE7F7?style=for-the-badge)](https://akhilesh-mohanasundaram.vercel.app)
+[![Email Me](https://img.shields.io/badge/📩%20Email-Say%20Hello-EA4335?style=for-the-badge)](mailto:akhileshmohan2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/Akhilesh-Mohanasundaram)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A855F7,100:6EE7F7&height=120&section=footer&animation=fadeIn"/>
+
+</div>
