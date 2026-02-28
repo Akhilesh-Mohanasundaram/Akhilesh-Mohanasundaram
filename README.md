@@ -15,16 +15,14 @@
 <!-- RIGHT COLUMN: Intro, Typing, Badges -->
 <td width="62%" align="center" valign="middle">
 
-<br/>
-
-# Hi there, I'm Akhilesh 👋
+# Hi there, I'm Akhilesh
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=520&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+LLM+Architect+%F0%9F%A7%A0;IoT+%2B+ML+%3D+AIoT+Engineer+%F0%9F%94%8C;Full-Stack+Developer+%F0%9F%9A%80;CGPA%3A+9.32+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6EE7F7?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilesh-mohanasundaram.vercel.app)
@@ -32,7 +30,7 @@
 [![Email](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshmohan2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh-Mohanasundaram)
 
-<br/><br/>
+<br/>
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhilesh-Mohanasundaram&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
@@ -46,7 +44,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class AkhileshMohanasundaram:
@@ -60,23 +58,23 @@ class AkhileshMohanasundaram:
         self.ask_me_about = ["RAG Systems", "Computer Vision", "EEG Signal Processing", "IoT+ML"]
 
     def life_philosophy(self):
-        return "Translate complex problems into deployable, real-world AI solutions. 🚀"
+        return "Translate complex problems into deployable, real-world AI solutions."
 ```
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Intern — Gadgeon Systems Inc.
+### AI Intern — Gadgeon Systems Inc.
 `Jan 2026 – Present` · Remote
 - Engineering feasible LLM architectures for production AI workflows
 - Bridging domain requirements to deployable AI systems
 
-### 🔬 Summer Research Intern — IIT Kharagpur
+### Summer Research Intern — IIT Kharagpur
 `May 2025 – July 2025` · Kharagpur, India
 - Built secure TCP + hybrid cryptography comm systems on Raspberry Pi
 - Designed a Wi-Fi–LoRa gateway for encrypted client-server exchange
@@ -84,12 +82,12 @@ class AkhileshMohanasundaram:
 </td>
 <td width="50%" valign="top">
 
-### 🧪 ML Intern — GrowthLink
+### ML Intern — GrowthLink
 `Feb 2025 – Mar 2025` · Remote
 - Built **SpamSense** — an AI-powered SMS spam detection system
 - Full-stack integration with advanced ML classification algorithms
 
-### 🎨 UI/UX Design Intern — LearningX
+### UI/UX Design Intern — LearningX
 `Dec 2024 – Feb 2025` · Remote
 - Designed **Club Chat** mobile app UI — intuitive, user-first design
 - Iterated on real-world design challenges and feedback cycles
@@ -100,22 +98,22 @@ class AkhileshMohanasundaram:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| 🍽️ **Smart Diet Assistant** | IoT food nutritional estimator using MobileNetV2 CNN + TFLite on Raspberry Pi. Segments food items, predicts weight & computes macronutrients. | `Python` `TFLite` `OpenCV` `Raspberry Pi` |
-| 🧠 **Epileptic Seizure Detector** | End-to-end ML/DL pipeline for focal vs. non-focal EEG classification. 90.1% accuracy with LSTM + SMOTE; wavelet & fractal features. | `Python` `Keras` `XGBoost` `SciPy` |
-| 🕸️ **GraphRAG Agent** | Autonomous RAG pipeline that scrapes the web, builds a Neo4j knowledge graph, and answers questions using sub-graph retrieval. | `Python` `Neo4j` `FastAPI` `LlamaIndex` `Gemini 2.0` `Docker` |
-| 💊 **PCOSense** *(Hackathon Winner)* | AI health companion with cycle tracking, KG-based food analysis, yoga pose matching, and personalized LLM recommendations. | `LLM` `Knowledge Graphs` `Flutter` |
+| **Smart Diet Assistant** | IoT food nutritional estimator using MobileNetV2 CNN + TFLite on Raspberry Pi. Segments food items, predicts weight & computes macronutrients. | `Python` `TFLite` `OpenCV` `Raspberry Pi` |
+| **Epileptic Seizure Detector** | End-to-end ML/DL pipeline for focal vs. non-focal EEG classification. 90.1% accuracy with LSTM + SMOTE; wavelet & fractal features. | `Python` `Keras` `XGBoost` `SciPy` |
+| **GraphRAG Agent** | Autonomous RAG pipeline that scrapes the web, builds a Neo4j knowledge graph, and answers questions using sub-graph retrieval. | `Python` `Neo4j` `FastAPI` `LlamaIndex` `Gemini 2.0` `Docker` |
+| **PCOSense** *(Hackathon Winner)* | AI health companion with cycle tracking, KG-based food analysis, yoga pose matching, and personalized LLM recommendations. | `LLM` `Knowledge Graphs` `Flutter` |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -162,7 +160,7 @@ class AkhileshMohanasundaram:
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 <!-- Achievement Stats Bar -->
 <div align="center">
@@ -212,7 +210,7 @@ class AkhileshMohanasundaram:
 
 <td align="center" width="33%">
 
-### 🥇 LaunchHacks IV
+### LaunchHacks IV
 **Winner**
 > Built *PCOSense* — an AI health companion with cycle tracking, knowledge graph food analysis & personalized LLM care
 >
@@ -222,7 +220,7 @@ class AkhileshMohanasundaram:
 
 <td align="center" width="33%">
 
-### 🌐 IBM TechXchange
+### IBM TechXchange
 **Global Top 100**
 > Ranked among the world's best in IBM's Watsonx Hackathon. Earned a **fully sponsored** trip to the conference in Las Vegas
 >
@@ -232,7 +230,7 @@ class AkhileshMohanasundaram:
 
 <td align="center" width="33%">
 
-### 📡 NPTEL Elite + Gold
+### NPTEL Elite + Gold
 **Course Topper · Top 2%**
 > Scored **92%** in Introduction to IoT, placing in the top 2% of all national performers across India
 >
@@ -246,22 +244,22 @@ class AkhileshMohanasundaram:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
 | Certification | Provider | Period |
 |---|---|---|
-| ☁️ Google Cloud Computing Foundations | Google Cloud | Jul–Aug 2025 |
-| ⚛️ Introduction to Quantum Computing (Qiskit) | NPTEL (MoE, Govt. of India) | Jul–Aug 2024 |
-| ☁️ AWS Academy Cloud Foundations | AWS Academy | Nov 2023–Mar 2024 |
-| 📊 Data Science & Data Analytics | Teachnook | Sep–Oct 2023 |
+| **Google Cloud Computing Foundations** | Google Cloud | Jul–Aug 2025 |
+| **Introduction to Quantum Computing (Qiskit)** | NPTEL (MoE, Govt. of India) | Jul–Aug 2024 |
+| **AWS Academy Cloud Foundations** | AWS Academy | Nov 2023–Mar 2024 |
+| **Data Science & Data Analytics** | Teachnook | Sep–Oct 2023 |
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
