@@ -1,28 +1,48 @@
-<div align="center">
-
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A855F7,100:F472B6&height=200&section=header&text=Akhilesh%20Mohanasundaram&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
 
+<!-- Two-Column Hero Layout -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT COLUMN: ASCII Art Portrait -->
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Akhilesh-Mohanasundaram/Akhilesh-Mohanasundaram/main/ascii-art.png" width="320" alt="Akhilesh ASCII Portrait" />
+
+</td>
+
+<!-- RIGHT COLUMN: Intro, Typing, Badges -->
+<td width="62%" align="center" valign="middle">
+
+<br/>
+
+# Hi there, I'm Akhilesh 👋
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+LLM+Architect+%F0%9F%A7%A0;IoT+%2B+ML+%3D+AIoT+Engineer+%F0%9F%94%8C;Full-Stack+Developer+%F0%9F%9A%80;CGPA%3A+9.32+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=520&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+LLM+Architect+%F0%9F%A7%A0;IoT+%2B+ML+%3D+AIoT+Engineer+%F0%9F%94%8C;Full-Stack+Developer+%F0%9F%9A%80;CGPA%3A+9.32+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--mohanasundaram.vercel.app-6EE7F7?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilesh-mohanasundaram.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh--Mohanasundaram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akhilesh-Mohanasundaram)
-[![Email](https://img.shields.io/badge/Email-akhileshmohan2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshmohan2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Mohanasundaram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh-Mohanasundaram)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6EE7F7?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilesh-mohanasundaram.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akhilesh-Mohanasundaram)
+[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshmohan2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh-Mohanasundaram)
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & GitHub Stats -->
+<!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhilesh-Mohanasundaram&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Akhilesh-Mohanasundaram?style=for-the-badge&color=6EE7F7&labelColor=1a1a2e&label=FOLLOWERS)
 
-</div>
+<br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
