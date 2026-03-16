@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A855F7,100:F472B6&height=200&section=header&text=Akhilesh%20Mohanasundaram&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:0C4A6E,100:0F172A&height=200&section=header&text=Akhilesh%20Mohanasundaram&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Two-Column Hero Layout -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -334,6 +334,6 @@ class AkhileshMohanasundaram:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A855F7,100:6EE7F7&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0C4A6E,100:052E16&height=120&section=footer&animation=fadeIn"/>
 
 </div>
