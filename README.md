@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:0C4A6E,100:0F172A&height=200&section=header&text=Akhilesh%20Mohanasundaram&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:0C4A6E,100:0F172A&height=200&section=header&text=Akhilesh%20Mohanasundaram&fontSize=42&fontFamily=Raleway&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Two-Column Hero Layout -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -19,7 +19,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=520&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+LLM+Architect+%F0%9F%A7%A0;IoT+%2B+ML+%3D+AIoT+Engineer+%F0%9F%94%8C;Full-Stack+Developer+%F0%9F%9A%80;CGPA%3A+9.32+%7C+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=20&pause=1000&color=1E2E54&center=true&vCenter=true&random=false&width=560&lines=%E2%96%B8+Building+Intelligent+Systems+%E2%97%82;%E2%97%88+AI+%26+LLM+Architect+%E2%97%88;%E2%97%86+IoT+%2B+ML+%3D+AIoT+Engineer+%E2%97%86;%E2%86%92+Full-Stack+Developer+%E2%86%90;%E2%97%87+CGPA%3A+9.32+%7C+Always+Learning+%E2%97%87" alt="Typing SVG" />
 </a>
 
 <br/>
